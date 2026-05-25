@@ -16,8 +16,7 @@ Screenshots:
 
 
 
-## Repository conten![Uploading Screenshot 2026-05-25 143301.png…]()
-ts:
+## Repository contents:
 - main.py : initial commit that is built upon Matplotlib's pyplot chart
 - app.py : website app made with Dash library for easy access and share
   
