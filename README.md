@@ -1,6 +1,10 @@
 # P-n Junction and Diode Simulator
 This program provides a visual representation of a P-n junction under different applied voltage, as well as the corresponding I-V curve. The program has an interactive slider component that enables the user to freely explore the influence of applied voltage on a p-n junction.
 
+LINK to the webpage: https://p-n-junction-and-diode-simulator.onrender.com/
+
+This webpage was deployed using a free service Render, so it needs a bit of time to load completely.
+
 I believe this program will come in handy in Semiconductor classes in universities.
 
 ## Repository contents:
