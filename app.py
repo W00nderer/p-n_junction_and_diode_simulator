@@ -120,9 +120,9 @@ x_um, xpo_um, xno_um, Ec, Ev, Efn, Efp = compute_junction(Va_init)
 _, xno_worst, xpo_worst, Ec_worst, Ev_worst, _, _ = compute_junction(-2.0)
 y_bottom = float(Ev_worst.min()) - 0.3
 y_top    = float(Ec_worst.max()) + 0.4
-x_limit = max(xno_worst, xpo_worst) * 2
-x_left = -x_limit 
-x_right = x_limit * 1.5
+x_limit = float(max(xno_worst, xpo_worst)) * 2
+x_left = float(-x_limit)
+x_right = float(x_limit * 1.5)
 
 Va_sweep = np.linspace(-2, V0 * 0.95, 500) # 500 evenly spaced points from -2 till 95% of V0
 
