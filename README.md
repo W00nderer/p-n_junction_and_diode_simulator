@@ -7,7 +7,15 @@ This webpage was deployed using a free service Render, so it needs a bit of time
 
 I believe this program will come in handy in Semiconductor classes in universities.
 
-## Repository contents:
+Screenshots:
+
+<img width="1163" height="592" alt="Screenshot 2026-05-25 143321" src="https://github.com/user-attachments/assets/c9440ada-4a1d-4943-920a-27a21aedf1bf" />
+
+<img width="1204" height="774" alt="Screenshot 2026-05-25 143301" src="https://github.com/user-attachments/assets/55e872ac-f6ca-4781-b525-cbec8d866bbd" />
+
+
+## Repository conten![Uploading Screenshot 2026-05-25 143301.png…]()
+ts:
 - main.py : initial commit that is built upon Matplotlib's pyplot chart
 - app.py : website app made with Dash library for easy access and share
   
