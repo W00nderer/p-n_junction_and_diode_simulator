@@ -131,6 +131,7 @@ iv_y = (shockley(Va_sweep) * 1e3).tolist() # current as y-axis for IV curve grap
 
 # ------- Dash App -------------------------------------------
 app = Dash(__name__, external_stylesheets=external_stylesheets)
+server = app.server
 
 # Layout
 app.layout = html.Div([
