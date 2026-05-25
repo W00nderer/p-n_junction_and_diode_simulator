@@ -5,7 +5,7 @@ I believe this program will come in handy in Semiconductor classes in universiti
 
 ## Repository contents:
 - main.py : initial commit that is built upon Matplotlib's pyplot chart
-- dash_app.py : website app made with Dash library for easy access and share
+- app.py : website app made with Dash library for easy access and share
   
 ## Constants
 For this visualization, I used the doping concentarions of 10^17 and 10^16 for Na and Nd respectively. It provides an interesting contrast between the acceptor and donors. You can change it freely in the Constants at the very beginning of the program.
